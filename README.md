@@ -1,0 +1,2 @@
+# Kingdoms
+Kingdoms plugin wiki
